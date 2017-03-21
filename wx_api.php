@@ -1,4 +1,6 @@
 <?php
+
+//**·â×°Àà¿â
 class wechatCallbackapiTest
 {
     public function valid()
